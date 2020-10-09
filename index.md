@@ -10,12 +10,14 @@ Sistem keamamam jaringan komputer merupakan mesin yang digunakan dalam melakukan
 
 # Manfaat Sistem Keamanan Jaringan
 ![Image](Manfaat-Keamanan-Jaringan-768x472.jpg)
+
+
 Tidak hanya memberikan keamanan saja, namun ternyata untuk sistem keamanan jaringan pada komputer juga mampu memberikan manfaat lain. Oleh karena itu bagi para pengguna komputer selalu diwajibkan agar menggunakan sistem jaringan agar terhindar dari tangan orang yang tidak bertanggung jawab. Berikut ini manfaat menggunakan keamanan jaringan:
 1. Bisa menggunakan daya secara bersamaan
 2. Bisa menggunakan reabilitas lebih tinggi
 
 # Tujuan Keamanan Jaringan Nirkabel
-![Image](Tujuan-Sistem-Keamanan-Jaringan-768x472.png)
+![Image](Tujuan-Sistem-Keamanan-Jaringan-768x484.png)
 
 
 Berikut ini daftar tujuan dari sistem keamanan jaringan yaitu seperti di bawah ini:
